@@ -1,6 +1,6 @@
 <?php
 
 $myname = "Buddhima";
-echo $myname;
+echo "My name is " .$myname;
 
 ?>
