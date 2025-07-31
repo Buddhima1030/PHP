@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello World";
+$myname = "Buddhima";
+echo $myname;
 
 ?>
